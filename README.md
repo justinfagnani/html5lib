@@ -37,3 +37,4 @@ Dependencies are installed using the [Pub Package Manager][pub].
 [html5lib]: http://dev.w3.org/html5/spec/parsing.html
 [d_html]: http://api.dartlang.org/docs/continuous/dart_html.html
 [files]: http://html5lib.googlecode.com/hg/python/html5lib/
+[pub]: http://www.dartlang.org/docs/pub-package-manager/
